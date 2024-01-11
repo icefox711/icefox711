@@ -1,6 +1,5 @@
 C++ enthusiast, sleeping 24/7
 
-Twitter: @Es_Kepok
 Discord: eskepok
 
 <!---
